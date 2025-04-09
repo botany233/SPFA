@@ -1,0 +1,6 @@
+from .vanilla_dataset import VanillaDataset
+from .get_features_dataset import GetFeaturesDataset
+from .features_dataset import FeaturesDataset
+from .mult_features_dataset import MultFeaturesDataset
+from .get_wsi_features_dataset import GetWSIFeaturesDataset
+from .wsi_features_dataset import WSIFeaturesDataset
